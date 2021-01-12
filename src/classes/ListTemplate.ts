@@ -20,4 +20,5 @@ export class ListTemplate {
             this.container.append(li);
         }
     }
-} 
+}
+
